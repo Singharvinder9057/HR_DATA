@@ -16,7 +16,7 @@ Gender Ratio: Compare male employees across job roles.
 
 Employee Count: See how many employees work in each role.
 
-# Visuals
+# 📈 Visuals
 
 Pie chart for income by department.
 
